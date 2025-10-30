@@ -202,7 +202,7 @@ Once your project runs successfully, upload it to GitHub.
    git add .
    git commit -m "Initial Oracle SQL + PL/SQL project"
    git branch -M main
-   git remote add origin https://github.com/YOUR_USERNAME/student_performance_project.git
+   git remote add origin https://github.com/sapna-usare/student_performance.git
    git push -u origin main
    ```
 4. Go to [https://github.com](https://github.com) → your repository → confirm the upload.
@@ -235,4 +235,5 @@ After completing this project, you will have learned:
 📍 Aspiring Database Administrator | Oracle SQL & PL/SQL Learner
 📧 *Add your email here (optional)*
 🔗 *LinkedIn: [Your LinkedIn Profile](https://linkedin.com)*
+
 🗓️ *Created on:* October 2025
